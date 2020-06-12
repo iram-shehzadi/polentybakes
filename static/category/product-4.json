@@ -1,10 +1,1 @@
-{
-	"id": "4",
-	"name": "Orange Polenta Cake - Slice",
-	"categoryKeyPath": "cakes.new",
-	"pageUrl": "/orange-polenta-cake-slice/",
-	"price": 4,
-	"taxRate": 0,
-	"description": "<p><span style=\"letter-spacing: 0.32px\">Slice of orange polenta cake</span><br></p>",
-	"images": { "primary": { "url": "/category/product-images/4.png" } }
-}
+{"id":"4","name":"Orange Polenta Cake - Slice","categoryKeyPath":"cakes.new","pageUrl":"/orange-polenta-cake-slice/","price":4,"taxRate":0,"description":"<p><span style=\"letter-spacing: 0.32px\">Slice of orange polenta cake</span><br></p>","images":{"primary":{"url":"/category/product-images/4.png"}}}
