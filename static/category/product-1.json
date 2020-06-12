@@ -1,1 +1,10 @@
-{"id":"1","name":"Lemon Polenta Cake","categoryKeyPath":"cakes.new","pageUrl":"/lemon-polenta-cake/","price":32,"description":"<p><span style=\"letter-spacing: 0.32px\">Lemon polenta cake, 12 - 14 slices</span><br></p>","images":{"primary":{"url":"http://localhost/category/product-images/1.png"}}}
+{
+	"id": "1",
+	"name": "Lemon Polenta Cake",
+	"categoryKeyPath": "cakes.new",
+	"pageUrl": "/lemon-polenta-cake/",
+	"price": 32,
+	"taxRate": 0,
+	"description": "<p><span style=\"letter-spacing: 0.32px\">Lemon polenta cake, 12 - 14 slices</span><br></p>",
+	"images": { "primary": { "url": "/category/product-images/1.png" } }
+}
