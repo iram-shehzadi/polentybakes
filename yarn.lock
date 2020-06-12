@@ -2,35 +2,35 @@
 # yarn lockfile v1
 
 
-"@apicart/core-sdk@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/core-sdk/-/core-sdk-1.0.0-alpha6.tgz#531be7c68603664b087dcd566cd8e4b5feb75037"
-  integrity sha512-+f9jHqqzMvDa5w8Gol2n0tsYW7Vr8L7mXku6vafVlnfOT2Y2VAoEtkB5RfEaMrjPkF4KpeOz1aO+fYODx/Rb4g==
+"@apicart/core-sdk@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/core-sdk/-/core-sdk-1.0.0-alpha7.tgz#874d8c45732d3f4e3b26d9ccee3b7d53698c8e3b"
+  integrity sha512-B1Alq9KTVhsN4Ql2w7JhWW3p3AgCB/a2Hgdj3P7Ug2BeHXzL2kgjZhEgk9YsGny2HWQQRhYxPs0RFGBl6WAgIQ==
 
-"@apicart/js-utils@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/js-utils/-/js-utils-1.0.0-alpha6.tgz#7a266fb7402b61080cb409a8cb8365986a63dc58"
-  integrity sha512-KllIzwvDkR2llZIdcYH12v5yrodx5D3jediPLtG3TJSO5a2MRRVMZMmgJIZZCn9/Dh521bDfgswalR9yj6Kw5A==
+"@apicart/js-utils@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/js-utils/-/js-utils-1.0.0-alpha7.tgz#de089d3c55bd5461dd3446cd5bf19f211955a2a5"
+  integrity sha512-Eml+8otHrUvhduuloD/d+SsKzwNZ+To3s8ebLbcJm7d5FwUs5L5lSnQGDEiXwY9u6Sr+4RumnvhYyQ8WHoMyAw==
 
-"@apicart/payments-sdk@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/payments-sdk/-/payments-sdk-1.0.0-alpha6.tgz#695e312c9891e23148c5839df108484f32c6e8e0"
-  integrity sha512-9pEsIdKHQ4atWZTL7wrYf1uTjkCQxwd+0xOIi+JTiwR8a8kLzDPdWIhcgz+RkF5WbkZUtTbWROqWdnBF6vyYKg==
+"@apicart/payments-sdk@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/payments-sdk/-/payments-sdk-1.0.0-alpha7.tgz#0058f1ff832d40585f32bea83b201b6cf490067f"
+  integrity sha512-fZAPAnWrzq0t9Sg59wMw/3QEEV+V2k8LBRWIapGxTVLRt/il/xl4BrThYalkCvPID6zg0OPtzHMs/1tlxl2n3g==
 
-"@apicart/store-sdk@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/store-sdk/-/store-sdk-1.0.0-alpha6.tgz#60c7129441ee96ddccab28e4821b7d7f989faebb"
-  integrity sha512-Ru/8KKYak/7B3svtKWhuwIkrAar6QLn5QpbHLuQ3c+U7Fh5ppY3L+Z+J7Qo+a12dS1RWC4zVB+zt81MMen8VXA==
+"@apicart/store-sdk@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/store-sdk/-/store-sdk-1.0.0-alpha7.tgz#4733182e091130087ec4b09bb13e9e578b59ba2d"
+  integrity sha512-1UiPdoapJ10vErAyyOiaRceGX2kVkaxeK6qA1QsZ9/7gJSoRsV44zvDksy+8JWx+Lm9iHMk0gM/+1S/u51BoSQ==
 
-"@apicart/vue-components@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/vue-components/-/vue-components-1.0.0-alpha6.tgz#d541bfe06a4684d24bbe7721767b3a6c8df32adb"
-  integrity sha512-L1GovZfEMJ/k5w0CeUtIKEixRd+vWh88LtSU+VqSrlxjJYSnmX9K7Jwp4aQPaUn8HjVDHeS0RDcmLA5QaL5DWw==
+"@apicart/vue-components@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/vue-components/-/vue-components-1.0.0-alpha7.tgz#a77445ae1a913f701c89d20c411c8abe86067a11"
+  integrity sha512-4M1C5W/pTznIZM0cto5o0nd9yKDcNmGL3n2cbz4hV1WHUf77iuskuqYoGMrU0XIjOLINk1lViQxbmZs5ib0uQg==
 
-"@apicart/web-components-localization@^1.0.0-alpha6":
-  version "1.0.0-alpha6"
-  resolved "https://registry.yarnpkg.com/@apicart/web-components-localization/-/web-components-localization-1.0.0-alpha6.tgz#442ee0492490c245b671bb34054960950b4e654f"
-  integrity sha512-VKjq4aadPlv4T3uw7KXgozJuYIaI2gvIQHGZ7Fvk1NVDuQ2S6Rz2jIupsQw7MvSyWArULe+ifVr4DL8tPZRt7Q==
+"@apicart/web-components-localization@^1.0.0-alpha7":
+  version "1.0.0-alpha7"
+  resolved "https://registry.yarnpkg.com/@apicart/web-components-localization/-/web-components-localization-1.0.0-alpha7.tgz#4079d5b5f3593a8ff7e374ab3dece200847757ba"
+  integrity sha512-PHzAHCTeIQGVIbvioVjILfIe4o+wyVAllW21ufEw/C9HbEar/yzRy/L+L8U6/PlAoAGDHsHA4SxjO2CM2+O9Dg==
 
 "@babel/code-frame@^7.10.1", "@babel/code-frame@^7.5.5":
   version "7.10.1"
@@ -8561,10 +8561,10 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==
 
-vue-i18n@^8.18.1:
-  version "8.18.1"
-  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.18.1.tgz#2e683ac93a15617bdcd210f99359d6034e8425dd"
-  integrity sha512-K+hFQJksF8Ph23pnhbwSyoQx+4Y1q/rh2o7GiXI/3rLCCrwanUbzudC8+trp0Mb8rn9y83DYF6RXNrMd+VsuCw==
+vue-i18n@^8.18.2:
+  version "8.18.2"
+  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.18.2.tgz#cd7c12f2e178e6faa23b0e3cfd2f7bac9305f8fc"
+  integrity sha512-0X5nBTCZAVjlwcrPaYJwNs3iipBBTv0AUHwQUOa8yP3XbQGWKbRHqBb3OhCYtum/IHDD21d/df5Xd2VgyxbxfA==
 
 vue-loader@^15.7.1:
   version "15.9.2"
