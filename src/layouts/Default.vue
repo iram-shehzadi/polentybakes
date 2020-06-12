@@ -6,10 +6,10 @@
           <g-image
             class="header__brand-image"
             width="50"
-            src="~/assets/images/apicart-logo.png"
+            src="~/assets/images/polenty-bakes.png"
             alt
           />
-          <h1 class="header__brand-title">JAMstack E-commerce</h1>
+          <h1 class="header__brand-title">Polenty Bakes Bakery</h1>
         </div>
         <apicart-cart-dropdown
           @toggle-button-click="openCheckout"
